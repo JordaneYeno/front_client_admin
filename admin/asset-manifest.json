@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f471dba.css",
+    "main.js": "/static/js/main.5531c7f8.js",
+    "static/js/787.9d948a78.chunk.js": "/static/js/787.9d948a78.chunk.js",
+    "static/media/Agbalumo-Regular.ttf": "/static/media/Agbalumo-Regular.169b25c00fba6c8e1947.ttf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/LilitaOne-Regular.ttf": "/static/media/LilitaOne-Regular.e970d047065ed950bb8c.ttf",
+    "index.html": "/index.html",
+    "main.6f471dba.css.map": "/static/css/main.6f471dba.css.map",
+    "main.5531c7f8.js.map": "/static/js/main.5531c7f8.js.map",
+    "787.9d948a78.chunk.js.map": "/static/js/787.9d948a78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f471dba.css",
+    "static/js/main.5531c7f8.js"
+  ]
+}
